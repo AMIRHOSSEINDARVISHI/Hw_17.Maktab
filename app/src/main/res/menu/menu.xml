@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+    <group android:checkableBehavior="none">
+        <item
+            android:id="@+id/playerFragment"
+            android:icon="@drawable/ic_baseline_play_arrow_24"
+            android:title="Player" />
+
+
+
+        <item
+            android:id="@+id/homeFragment"
+            android:iconTint="@color/colorPrimaryDark"
+            android:icon="@drawable/ic_baseline_home_24"
+            android:title="Home" />
+
+        <!--        <item-->
+        <!--            android:id="@+id/itemDelAdd"-->
+        <!--            android:icon="@drawable/address"-->
+        <!--            android:title="@string/delivery_add" />-->
+
+        <!--        <item-->
+        <!--            android:id="@+id/itemLanguage"-->
+        <!--            android:icon="@drawable/translate"-->
+        <!--            android:iconTint="@color/colorPrimaryDark"-->
+        <!--            android:title="@string/change_lang" />-->
+
+
+
+        <!--        <item-->
+        <!--            android:id="@+id/itemExit"-->
+        <!--            android:icon="@drawable/ic_exit_to_app_black_24dp"-->
+        <!--            android:title="@string/exit" />-->
+
+
+
+    </group>
+</menu>

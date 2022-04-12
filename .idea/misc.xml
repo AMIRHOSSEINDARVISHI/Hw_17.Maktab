@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/User/AndroidStudioProjects/MoviesApp/app/src/main/res/drawable/circleshape.xml" value="0.1165" />
+        <entry key="..\:/Users/User/AndroidStudioProjects/MoviesApp/app/src/main/res/drawable/forward.xml" value="0.1165" />
+        <entry key="..\:/Users/User/AndroidStudioProjects/MoviesApp/app/src/main/res/drawable/ic_baseline_arrow_back_24.xml" value="0.1165" />
+        <entry key="..\:/Users/User/AndroidStudioProjects/MoviesApp/app/src/main/res/drawable/ic_baseline_home_24.xml" value="0.1165" />
+        <entry key="..\:/Users/User/AndroidStudioProjects/MoviesApp/app/src/main/res/drawable/ic_baseline_play_arrow_24.xml" value="0.1165" />
+        <entry key="..\:/Users/User/AndroidStudioProjects/MoviesApp/app/src/main/res/drawable/ic_baseline_remove_24.xml" value="0.1165" />
+        <entry key="..\:/Users/User/AndroidStudioProjects/MoviesApp/app/src/main/res/drawable/ic_launcher_background.xml" value="0.1165" />
+        <entry key="..\:/Users/User/AndroidStudioProjects/MoviesApp/app/src/main/res/drawable/ic_launcher_foreground.xml" value="0.1165" />
+        <entry key="..\:/Users/User/AndroidStudioProjects/MoviesApp/app/src/main/res/drawable/pause.xml" value="0.1165" />
+        <entry key="..\:/Users/User/AndroidStudioProjects/MoviesApp/app/src/main/res/drawable/shadow.xml" value="0.1165" />
+        <entry key="..\:/Users/User/AndroidStudioProjects/MoviesApp/app/src/main/res/layout/activity_main.xml" value="0.2546875" />
+        <entry key="..\:/Users/User/AndroidStudioProjects/MoviesApp/app/src/main/res/layout/comingsoon_item.xml" value="0.2546875" />
+        <entry key="..\:/Users/User/AndroidStudioProjects/MoviesApp/app/src/main/res/layout/custom_ex_layout.xml" value="0.2546875" />
+        <entry key="..\:/Users/User/AndroidStudioProjects/MoviesApp/app/src/main/res/layout/fragment_details.xml" value="0.2546875" />
+        <entry key="..\:/Users/User/AndroidStudioProjects/MoviesApp/app/src/main/res/layout/fragment_home.xml" value="0.2546875" />
+        <entry key="..\:/Users/User/AndroidStudioProjects/MoviesApp/app/src/main/res/layout/fragment_player.xml" value="0.2546875" />
+        <entry key="..\:/Users/User/AndroidStudioProjects/MoviesApp/app/src/main/res/layout/movie_item.xml" value="0.2546875" />
+        <entry key="..\:/Users/User/AndroidStudioProjects/MoviesApp/app/src/main/res/menu/menu.xml" value="0.2546875" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
